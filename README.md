@@ -1,6 +1,6 @@
 # Hi, I’m Taufik 👋
 
-I’m a Computer Science / Data Science student learning Flutter mobile app development, API integration, Firebase, BLoC state management, and clean project architecture.
+I’m a Computer Science  student learning Flutter mobile app development, API integration, Firebase, BLoC state management, and clean project architecture.
 
 I’m building real projects step by step to become ready for junior Flutter developer and mobile app internship opportunities.
 
@@ -14,7 +14,6 @@ I’m building real projects step by step to become ready for junior Flutter dev
 - Firebase Authentication & Cloud Firestore
 - Clean Architecture
 - Git & GitHub
-- Python, SQL, and data analysis
 
 ---
 
